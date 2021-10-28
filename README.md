@@ -5,5 +5,5 @@ This is the original portfolio we began developing in the web development bootca
 
 #### My new portfolio page can be found at --> [https://rcartr.github.io/](https://rcartr.github.io/)
 
-### Contact
-If you would like to contact me, please feel free to visit [my portfolio page](https://rcartr.github.io/) or [email me directly](mailto: rbc.coding@gmail.com).
+## Contact
+If you would like to contact me, please feel free to visit [my portfolio page](https://rcartr.github.io/) or email me directly at rbc.coding@gmail.com
